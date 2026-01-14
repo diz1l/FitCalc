@@ -19,7 +19,7 @@ function App() {
         <TooltipProvider>
           <Toaster />
           <Sonner />
-          <BrowserRouter>
+          <BrowserRouter basename="/FitCalc">
             <Routes>
               <Route path="/" element={<Index />} />
               <Route path="/calculator" element={<CalculatorPage />} />
