@@ -141,10 +141,6 @@ We welcome contributions to FitCalc! To contribute, please follow these steps:
 
 Please make sure your code follows the existing style and passes all tests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Made with ❤️ by [Dias & AI)](https://your-website.com)
+Made with ❤️ by [Dias & AI)]
